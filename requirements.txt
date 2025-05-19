@@ -1,0 +1,14 @@
+supervision
+numpy
+opencv-python
+transformers
+umap-learn
+scikit-learn
+tqdm
+sentencepiece
+protobuf
+ultralytics
+torch>=2.0.0
+pika>=1.3.0
+boto3>=1.28.0
+python-dotenv>=1.0.0
